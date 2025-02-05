@@ -8,6 +8,8 @@ These files are available for non-commercial use only. You explicitly have permi
 
 ## Which files do I need?
 
+⚠️ Looking for the Halcyon (rev 2.0 and up) version of the case files? Please visit the [Halcyon repository](https://github.com/splitkb/halcyon) instead.
+
 1. Look for the folder of your keyboard, depending on your revision.
 2. Decide whether you need kerf (see below: What's kerf?).
 3. Pick the files for your keyboard:
